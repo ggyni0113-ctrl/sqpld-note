@@ -1,1 +1,0 @@
-# sqpld-note
